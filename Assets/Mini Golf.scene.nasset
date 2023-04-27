@@ -48,7 +48,6 @@
     "children": [
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.2569,
@@ -88,16 +87,11 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Light"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -25.1403,
@@ -132,16 +126,11 @@
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light",
                     "flags": 2
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
                     100.0
@@ -167,10 +156,6 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
         }
