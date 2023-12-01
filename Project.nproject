@@ -1,6 +1,7 @@
 {
-    "name": "Mini Golf",
-    "guid": "68d35c3b-f3ba-4251-aa6d-6034fec60d9a",
+    "name": "Spinny Golf",
+    "guid": "699f15a6-3ea8-4e34-af34-ff1d04dc7ea0",
+    "database_guid": "e00ce6f2-0e6a-4d03-ee5f-ecd12d6f337b",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
-    "default_scene": "a4af1104-6567-4b03-9c9a-b256e7cf9288",
+    "thumbnail_guid": "b93b8720-43ef-f350-29d9-5a3a949af5ad",
+    "default_scene": "8f71b21e-ef88-4e47-8552-0098cadc6518",
+    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
