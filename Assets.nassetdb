@@ -11,7 +11,10 @@
     "8f71b21e-ef88-4e47-8552-0098cadc6518": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Spinny Golf.scene.nasset"
+        "path": "Assets/Spinny Golf.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-1.9766,2.0051,1.8783],\"rotation\":[-18.9033,0.0,-134.1447]}"
+        }
     },
     "e00ce6f2-0e6a-4d03-ee5f-ecd12d6f337b": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
